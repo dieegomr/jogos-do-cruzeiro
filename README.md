@@ -1,8 +1,8 @@
 # Jogos do cruzeiro Campeonato Brasileiro
 
+Obs.: O intuito deste repositório foi aprender como usar o Github.
 
-
-Fala cabulosos e cabulosas!
+Fala Galera!
 
 Aqui você encontra a relação de jogos do Cruzeirão Cabuloso, com os placares e informações sobre cada jogo!
 
